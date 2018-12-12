@@ -30,7 +30,7 @@ In this project, I use the data to answer 2 business questions:
   - a. What are the main drivers of an effective offer on the Starbucks app?
   - b. Could the data provided, namely offer characteristics and user demographics, predict whether a user would take up an offer?
 
-To answer the above 2 questions, I created 3 models for the data on the 3 offer types provided.
+To answer the above 2 questions, I created 3 models for the data on the 3 offer types provided. The three offers are: Buy One Get One Free (BOGO), Discount (discount with purchase), and Informational (provides information about products).
 
 As a brief summary of my findings:
 - For Question 1, the feature importance given by all 3 models were that the tenure of a member is the biggest predictor of the effectiveness of an offer. Further study would be able to indicate what average tenure days would result in an effective BOGO offer.
